@@ -22,16 +22,18 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map)
 
-#### Projects
+#### Physical projects
 
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub)
 - Smart Power Tracking (Coming Soon)
 - Magic LED Ceiling (Coming Soon)
 
+<!--
 ### Contact
 
 <a href="https://www.linkedin.com/in/maximilian-giesen/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" align="left" alt="LinkedIn" height='30px'/> </a>
 <a href="mailto:mgiesengithub@icloud.com" target="_blank"><img align="left" alt="Mail" height ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/1024px-Microsoft_Office_Outlook_%282018–present%29.svg.png"></a>
+-->
 
 <!--
 **mgiesen/mgiesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
