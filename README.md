@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+my name is Max, I am a development engineer 👨‍🔬 from Krefeld in Germany 🇩🇪 and I want to use my public GitHub Profile to share ideas 💡, projects 🔬 and tools 🛠️ I have created over time 🕑. I really look forward to get in contact with other entusiastic developers around the world 🌎 or even in Germany. Do you want to collaborate on a project or discuss technical topics? Feel free to email me 📧.
+
 <!--
 **mgiesen/mgiesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
