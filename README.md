@@ -28,12 +28,13 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Toilet Games](https://github.com/mgiesen/Toilet-Games)
 - Smart Power Tracking (Coming Soon)
 - Magic LED Ceiling (Coming Soon)
-- Magic Game Board
+- Magic Game Board (Coming Soon)
+- Ransomware Kill Switch (Coming Soon)
 
 #### Childhood Projects
 
-- Self grilling barbecue
-- Hybrid skates
+- Self grilling barbecue (Coming Soon)
+- Hybrid skates (Coming Soon)
 
 <!--
 ### Contact
