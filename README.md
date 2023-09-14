@@ -33,7 +33,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Childhood Projects
 
-- Self grilling barbecue (Coming Soon)
+- [Self grilling barbecue](https://github.com/mgiesen/Self-Grilling-Barbecue) (2007)
 - Hybrid skates (Coming Soon)
 
 <!--
