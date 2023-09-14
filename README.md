@@ -10,9 +10,9 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Cpp-JSON-CSV-Database](https://github.com/mgiesen/Cpp-JSON-CSV-Database)
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel)
 
-#### NodeJS Tools
+#### NodeJS Libraries
 
-- [NodeJS-MQTT-InfluxDB](https://github.com/mgiesen/NodeJS-MQTT-InfluxDB)
+- [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser)
 
 #### Games
 
