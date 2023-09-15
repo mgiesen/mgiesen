@@ -26,7 +26,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map)
 
-#### Physical projects
+#### Hardware and Software
 
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub)
 - [Toilet Games](https://github.com/mgiesen/Toilet-Games)
