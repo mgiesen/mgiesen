@@ -14,6 +14,10 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser)
 
+#### NodeJS Tools
+
+- [MQTT-Influx-Bridge](https://github.com/mgiesen/MQTT-Influx-Bridge)
+
 #### Games
 
 - [Smart Octopus](https://github.com/mgiesen/Smart-Octopus)
