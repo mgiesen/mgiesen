@@ -34,15 +34,10 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub)
 - [Toilet Games](https://github.com/mgiesen/Toilet-Games)
-- Smart Power Tracking (Coming Soon)
-- Magic LED Ceiling (Coming Soon)
-- Magic Game Board (Coming Soon)
-- Ransomware Kill Switch (Coming Soon)
 
 #### Childhood Projects
 
 - [Self grilling barbecue](https://github.com/mgiesen/Self-Grilling-Barbecue) (2007)
-- Hybrid skates (Coming Soon)
 
 <!--
 ### Contact
