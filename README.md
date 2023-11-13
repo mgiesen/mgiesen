@@ -42,6 +42,8 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Self grilling barbecue](https://github.com/mgiesen/Self-Grilling-Barbecue) (2007) 🇺🇸
 
+#### Other
+- [Awesome List](https://github.com/mgiesen/Awesome)
 <!--
 ### Contact
 
