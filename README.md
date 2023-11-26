@@ -14,11 +14,15 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
 
+#### Electron
+
+- [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
+
 #### NodeJS Libraries
 
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser) 🇺🇸
 
-#### NodeJS Tools
+#### NodeJS Scripts
 
 - [MQTT-Influx-Bridge](https://github.com/mgiesen/MQTT-Influx-Bridge) 🇺🇸
 
@@ -44,24 +48,3 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Other
 - [Awesome List](https://github.com/mgiesen/Awesome)
-<!--
-### Contact
-
-<a href="https://www.linkedin.com/in/maximilian-giesen/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" align="left" alt="LinkedIn" height='30px'/> </a>
-<a href="mailto:mgiesengithub@icloud.com" target="_blank"><img align="left" alt="Mail" height ="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/1024px-Microsoft_Office_Outlook_%282018–present%29.svg.png"></a>
--->
-
-<!--
-**mgiesen/mgiesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
