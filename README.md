@@ -40,7 +40,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Experiments and Data
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
-- [Power-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
+- [Power-And-Solar-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
   
 #### Childhood Projects
 
