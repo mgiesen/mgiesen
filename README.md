@@ -37,6 +37,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### Hardware and Software
 
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
+- [Luminous Hallway](https://github.com/mgiesen/Luminous-Hallway) 🇩🇪
 
 #### Experiments and Data
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
