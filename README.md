@@ -13,6 +13,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### Visual Studio Code Extensions
 
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
+- [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
 
 #### Electron
 
