@@ -25,7 +25,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Examples
 
-- [Example-Vue-Dashboard](https://github.com/mgiesen/Example-Vue-Dashboard) 🇩🇪
+- [Example-Vue-Dashboard](https://github.com/mgiesen/Example-Vue-Dashboard) 🇺🇸
 - [Example-MQTT-Influx-Bridge](https://github.com/mgiesen/Example-MQTT-Influx-Bridge) 🇺🇸
 
 #### Games
