@@ -15,6 +15,9 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
 - [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
 
+#### Browser Extensions
+- [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
+  
 #### Electron
 
 - [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
