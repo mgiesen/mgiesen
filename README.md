@@ -55,3 +55,4 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Other
 - [Awesome List](https://github.com/mgiesen/Awesome)
+- [Smart Stove Guard](https://github.com/mgiesen/Stove-Guard) 🇩🇪
