@@ -10,13 +10,11 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Cpp-JSON-CSV-Database](https://github.com/mgiesen/Cpp-JSON-CSV-Database) 🇺🇸
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel) 🇺🇸
 
-#### Visual Studio Code Extensions
+#### Extensions
 
-- [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
-- [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
-
-#### Browser Extensions
-- [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
+- Visual Studio Code [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
+- Visual Studio Code [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
+- Google Chrome [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
   
 #### Electron
 
