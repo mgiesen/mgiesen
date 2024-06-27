@@ -12,9 +12,9 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Extensions
 
-- Visual Studio Code [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
-- Visual Studio Code [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
-- Google Chrome [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
+- [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
+- [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
+- [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
   
 #### Electron
 
