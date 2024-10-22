@@ -13,7 +13,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### Extensions
 
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
-- [VS-Code-Extension-Installer](https://github.com/mgiesen/VS-Code-Extension-Installer) 🇺🇸
 - [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
   
 #### Electron
@@ -23,11 +22,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### NodeJS Libraries
 
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser) 🇺🇸
-
-#### Examples
-
-- [Example-Vue-Dashboard](https://github.com/mgiesen/Example-Vue-Dashboard) 🇺🇸
-- [Example-MQTT-Influx-Bridge](https://github.com/mgiesen/Example-MQTT-Influx-Bridge) 🇺🇸
 
 #### Games
 
