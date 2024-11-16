@@ -6,7 +6,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Libraries
 
-- [ld2410](https://github.com/mgiesen/ld2410) 🇺🇸
+- [LD2410](https://github.com/mgiesen/LD2410) 🇺🇸
 - [Cpp-Performance-Monitor](https://github.com/mgiesen/Cpp-Performance-Monitor) 🇺🇸
 - [Cpp-JSON-CSV-Database](https://github.com/mgiesen/Cpp-JSON-CSV-Database) 🇺🇸
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel) 🇺🇸
