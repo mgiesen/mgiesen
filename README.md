@@ -34,7 +34,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
 
-#### Tools
+#### Software Projects
 
 - [Git Lists](https://github.com/mgiesen/Git-Lists) 🇩🇪
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
