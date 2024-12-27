@@ -4,6 +4,15 @@ my name is Max, I am a development engineer 👨‍🔬 from Krefeld in Germany 
 
 I usually do projects to gain experience 👨‍🎓, learn new techniques and skills 🌱, or simply enjoy the process of creating things 🤩. Since these projects are not work-related, I sometimes pause ⏸️ or discontinue ⏹️ them to explore different topics. Please feel free to fork my projects and contribute 🤝 to them.
 
+#### Hardware and Software
+
+- [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
+- [Luminous Hallway](https://github.com/mgiesen/Luminous-Hallway) 🇩🇪
+
+#### Experiments and Data
+- [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
+- [Power-And-Solar-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
+  
 #### Libraries
 
 - [LD2410](https://github.com/mgiesen/LD2410) 🇺🇸
@@ -12,7 +21,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel) 🇺🇸
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser) 🇺🇸
 
-  
 #### Extensions
 
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
@@ -30,15 +38,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Git Lists](https://github.com/mgiesen/Git-Lists) 🇩🇪
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
-  
-#### Hardware and Software
-
-- [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
-- [Luminous Hallway](https://github.com/mgiesen/Luminous-Hallway) 🇩🇪
-
-#### Experiments and Data
-- [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
-- [Power-And-Solar-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
   
 #### Childhood Projects
 
