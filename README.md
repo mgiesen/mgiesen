@@ -10,10 +10,14 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Magic Tabmount](https://github.com/mgiesen/Magic-Tabmount) 🇩🇪
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
 
-
 #### Experiments and Data
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
 - [Power-And-Solar-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
+
+#### Extensions
+
+- [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
+- [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
   
 #### Libraries
 
@@ -23,11 +27,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel) 🇺🇸
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser) 🇺🇸
 
-#### Extensions
-
-- [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
-- [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
-  
 #### Electron
 
 - [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
