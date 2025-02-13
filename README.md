@@ -19,7 +19,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
 - [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
 
-#### AI
+#### Artificial Intelligence
 
 - [AI Audio Transcriber](https://github.com/mgiesen/AIAudioTranscriber) 🇩🇪
   
