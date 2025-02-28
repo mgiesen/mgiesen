@@ -21,7 +21,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Artificial Intelligence
 
-- [AI Audio Transcriber](https://github.com/mgiesen/AIAudioTranscriber) 🇩🇪
 - [project2context](https://github.com/mgiesen/project2context) 🇺🇸
 - [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸 
   
