@@ -23,6 +23,12 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [project2context](https://github.com/mgiesen/project2context) 🇺🇸
 - [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸 
+
+#### Software Projects
+
+- [VideoBites](https://github.com/mgiesen/VideoBites) 🇩🇪
+- [Git Lists](https://github.com/mgiesen/Git-Lists) 🇩🇪
+- [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
   
 #### Libraries
 
@@ -39,11 +45,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### Games
 
 - [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
-
-#### Software Projects
-
-- [Git Lists](https://github.com/mgiesen/Git-Lists) 🇩🇪
-- [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
   
 #### Childhood Projects
 
