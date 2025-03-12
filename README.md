@@ -24,11 +24,13 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [project2context](https://github.com/mgiesen/project2context) 🇺🇸
 - [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸 
 
-#### Software Projects
+#### Software
 
 - [VideoBites](https://github.com/mgiesen/VideoBites) 🇩🇪
 - [Git Lists](https://github.com/mgiesen/Git-Lists) 🇩🇪
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
+- [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
+- [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
   
 #### Libraries
 
@@ -37,14 +39,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Cpp-JSON-CSV-Database](https://github.com/mgiesen/Cpp-JSON-CSV-Database) 🇺🇸
 - [Cpp-Admin-Panel](https://github.com/mgiesen/Cpp-Admin-Panel) 🇺🇸
 - [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser) 🇺🇸
-
-#### Electron
-
-- [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
-
-#### Games
-
-- [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
   
 #### Childhood Projects
 
