@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is Max, I am a development engineer 👨‍🔬 from Krefeld in Germany 🇩🇪 and I want to use my public GitHub Profile to share some of the ideas 💡, projects 🔬 and tools 🛠️ I have created over time 🕑 and could be useful or interesting for the community. I really look forward to get in contact with other entusiastic developers. Do you want to collaborate on a project or discuss technical topics? Feel free to email me at any time 📧.
+my name is Max, I am from Krefeld in Germany 🇩🇪 and I want to use my public GitHub Profile to share some of the ideas 💡, projects 🔬 and tools 🛠️ I have created over time 🕑 and could be useful or interesting for the community. I really look forward to get in contact with other entusiastic developers. Do you want to collaborate on a project or discuss technical topics? Feel free to email me at any time 📧.
 
 I usually do projects to gain experience 👨‍🎓, learn new techniques and skills 🌱, or simply enjoy the process of creating things 🤩. Since these projects are not work-related, I sometimes pause ⏸️ or discontinue ⏹️ them to explore different topics. Please feel free to fork my projects and contribute 🤝 to them.
 
