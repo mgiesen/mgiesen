@@ -25,7 +25,8 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 #### Artificial Intelligence
 
 - [project2context](https://github.com/mgiesen/project2context) 🇺🇸
-- [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸 
+- [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸
+- [AI-System-Prompts-Analysis](https://github.com/mgiesen/AI-System-Prompts-Analysis) 🇺🇸
 
 #### Software
 
