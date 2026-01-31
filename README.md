@@ -16,6 +16,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 #### Day-To-Day Tools und Helper
 - [Browser-File-Link](https://github.com/mgiesen/Browser-File-Link) 🇩🇪
+- [UUID4 Generator](https://mgiesen.github.io/CDN/) 🇩🇪
 
 #### Extensions
 
