@@ -40,7 +40,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
 - [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
 
-## Home Server
+#### Home Server
 
 - [Fujitsu-SnapScan-Headless-Server](https://github.com/mgiesen/Fujitsu-SnapScan-Headless-Server) 🇩🇪
 
