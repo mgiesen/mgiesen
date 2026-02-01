@@ -11,10 +11,12 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
 
 #### Experiments and Data
+
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
 - [Power-And-Solar-Tracking](https://github.com/mgiesen/Power-And-Solar-Tracking) 🇩🇪
 
 #### Day-To-Day Tools und Helper
+
 - [Browser-File-Link](https://github.com/mgiesen/Browser-File-Link) 🇩🇪
 - [UUID4 Generator](https://mgiesen.github.io/CDN/) 🇩🇪
 
@@ -30,7 +32,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [AI-System-Prompts-Analysis](https://github.com/mgiesen/AI-System-Prompts-Analysis) 🇺🇸
 - [Markdown To Word Template](https://github.com/mgiesen/Markdown-To-Word-Template) 🇩🇪
 
-
 #### Software
 
 - [VideoBites](https://github.com/mgiesen/VideoBites) 🇩🇪
@@ -38,7 +39,11 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Open Brain Map](https://github.com/mgiesen/Open-Brain-Map) 🇺🇸
 - [Remote Paper](https://github.com/mgiesen/Remote-Paper) 🇩🇪
 - [Smart Octopus](https://github.com/mgiesen/Smart-Octopus) 🇺🇸
-  
+
+## Home Server
+
+- [Fujitsu-SnapScan-Headless-Server](https://github.com/mgiesen/Fujitsu-SnapScan-Headless-Server) 🇩🇪
+
 #### Libraries
 
 - [LD2410](https://github.com/mgiesen/LD2410) 🇺🇸
