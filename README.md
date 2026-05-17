@@ -11,6 +11,14 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Smart Home Hub](https://github.com/mgiesen/Smart-Home-Hub) 🇺🇸
 - [Digitales Potentiometer A2R-100k](https://github.com/mgiesen/A2R-100k) 🇩🇪 
 
+#### Artificial Intelligence
+
+- [AgentToolkit](https://github.com/mgiesen/AgentToolkit) 🇩🇪
+- [project2context](https://github.com/mgiesen/project2context) 🇺🇸
+- [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸
+- [AI-System-Prompts-Analysis](https://github.com/mgiesen/AI-System-Prompts-Analysis) 🇺🇸
+- [Markdown To Word Template](https://github.com/mgiesen/Markdown-To-Word-Template) 🇩🇪
+- 
 #### Experiments and Data
 
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
@@ -26,13 +34,6 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 
 - [Image-Comments](https://github.com/mgiesen/Image-Comments) 🇺🇸
 - [Open ChatGPT Exporter](https://github.com/mgiesen/Open-ChatGPT-Exporter) 🇩🇪
-
-#### Artificial Intelligence
-
-- [project2context](https://github.com/mgiesen/project2context) 🇺🇸
-- [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸
-- [AI-System-Prompts-Analysis](https://github.com/mgiesen/AI-System-Prompts-Analysis) 🇺🇸
-- [Markdown To Word Template](https://github.com/mgiesen/Markdown-To-Word-Template) 🇩🇪
 
 #### Software
 
