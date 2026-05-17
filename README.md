@@ -18,7 +18,7 @@ I usually do projects to gain experience 👨‍🎓, learn new techniques and s
 - [Offline Whisper](https://github.com/mgiesen/Offline-Whisper) 🇺🇸
 - [AI-System-Prompts-Analysis](https://github.com/mgiesen/AI-System-Prompts-Analysis) 🇺🇸
 - [Markdown To Word Template](https://github.com/mgiesen/Markdown-To-Word-Template) 🇩🇪
-- 
+
 #### Experiments and Data
 
 - [Bathtub-Heat-Preservation](https://github.com/mgiesen/Bathtub-Heat-Preservation) 🇩🇪
